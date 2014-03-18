@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+	<classpathentry kind="lib" path="depend/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="depend/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="depend/fluent-hc-4.3.3.jar"/>
+	<classpathentry kind="lib" path="depend/httpclient-4.3.3.jar" sourcepath="srccode/httpcomponents-client-4.3.3-src.zip"/>
+	<classpathentry kind="lib" path="depend/httpclient-cache-4.3.3.jar"/>
+	<classpathentry kind="lib" path="depend/httpcore-4.3.2.jar" sourcepath="srccode/httpcomponents-core-4.3.2-src.zip"/>
+	<classpathentry kind="lib" path="depend/httpmime-4.3.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
